@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <MulticolorIdeology.LoadingLabel>Multicolor Ideology Loading</MulticolorIdeology.LoadingLabel>
+    <MulticolorIdeology.SettingsTitle>Multicolor Ideology</MulticolorIdeology.SettingsTitle>
+    <MulticolorIdeology.PaintButton>Paint icon...</MulticolorIdeology.PaintButton>
+    <MulticolorIdeology.PaintTitle>Paint ideology icon</MulticolorIdeology.PaintTitle>
+    <MulticolorIdeology.FinishedPreview>Finished icon</MulticolorIdeology.FinishedPreview>
+    <MulticolorIdeology.Brush>Brush</MulticolorIdeology.Brush>
+    <MulticolorIdeology.Eraser>Eraser</MulticolorIdeology.Eraser>
+    <MulticolorIdeology.Fill>Fill</MulticolorIdeology.Fill>
+    <MulticolorIdeology.BrushSize>Brush size</MulticolorIdeology.BrushSize>
+    <MulticolorIdeology.Opacity>Opacity</MulticolorIdeology.Opacity>
+    <MulticolorIdeology.BrushColor>Paint color</MulticolorIdeology.BrushColor>
+    <MulticolorIdeology.GradientOn>Gradient: on</MulticolorIdeology.GradientOn>
+    <MulticolorIdeology.GradientOff>Gradient: off</MulticolorIdeology.GradientOff>
+    <MulticolorIdeology.SetStart>Set start</MulticolorIdeology.SetStart>
+    <MulticolorIdeology.SetEnd>Set end</MulticolorIdeology.SetEnd>
+    <MulticolorIdeology.Angle>Angle</MulticolorIdeology.Angle>
+    <MulticolorIdeology.Undo>Undo</MulticolorIdeology.Undo>
+    <MulticolorIdeology.Redo>Redo</MulticolorIdeology.Redo>
+    <MulticolorIdeology.Reset>Reset to solid</MulticolorIdeology.Reset>
+    <MulticolorIdeology.Apply>Apply</MulticolorIdeology.Apply>
+    <MulticolorIdeology.PaintHelp>Paint on the symbol, then Apply to return to the symbol editor. Done saves all symbol changes; Back discards them.</MulticolorIdeology.PaintHelp>
+    <MulticolorIdeology.ReadbackFailed>This symbol could not be opened for painting. Its original icon is unchanged.</MulticolorIdeology.ReadbackFailed>
+</LanguageData>
